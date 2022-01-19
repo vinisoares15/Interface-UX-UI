@@ -8,4 +8,4 @@ export { default as WhatGPT3 } from './WhatGPT3/WhatGPT3';
 //se tiver algum erro nesse export, é pq os nomes das pastas foram escritos
 //diferentes de como estão nos ficheiros. 
 
-//Fazendo coisas diferentes
+//Fazendo coisas diferentes de novo...
