@@ -14,13 +14,13 @@ const navbar = () => {
 
                 </div>
                 <div className="gpt3__navbar-links_container">
-                    <p>
-                        <a href="#home">Home</a>
-                        <a href="#wgpt3">What is GPT3</a>
-                        <a href="#possibility">Open IA</a>
-                        <a href="#features">Case Studies</a>
-                        <a href="#blog">Library</a>
-                    </p>
+                    
+                        <p><a href="#home">Home</a></p>
+                        <p><a href="#wgpt3">What is GPT3</a></p>
+                        <p><a href="#possibility">Open IA</a></p>
+                        <p><a href="#features">Case Studies</a></p>
+                        <p><a href="#blog">Library</a></p>
+                    
 
                 </div>
                 <div className="gpt3__navbar-sign">
